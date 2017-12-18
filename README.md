@@ -43,7 +43,7 @@ And here is a block of python colored code:
 ```python
 import time
 # Quick, count to ten!
-for i in range(10):
+for i in range(11,20):
     # (but not *too* quick)
     time.sleep(0.5)
     print i
