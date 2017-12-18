@@ -43,9 +43,8 @@ And here is a block of python colored code:
 ```python
 import time
 # Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
+for i in range(1, 10):
+    time.sleep(i/10.0)
     print i
 ```
 
