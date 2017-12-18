@@ -64,3 +64,6 @@ And here is a table
 | --- | --- | --- |
 | 1.2 | metal | grey |
 | 1.3 | gold | yellow |
+
+## To je Damirjev komentar
+Ful bi bilo fino, da bi se naučil programirati.
